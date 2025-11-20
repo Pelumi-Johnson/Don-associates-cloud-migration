@@ -132,19 +132,5 @@ Solution: Use AWS Budgets and Cost Explorer for tracking and alerts
 
 ---
 
-## **📚 References**
 
-* UMGC uCertify Cloud Foundations
-* Microsoft Azure Pricing Documentation
-* AWS 2023 Gartner Magic Quadrant Report
 
----
-
-If you want, I can also create:
-
-✅ A **shorter README** (minimalist style)
-✅ A **portfolio-style README** with diagrams
-✅ A **GitHub Pages version** of this project
-✅ A **project architecture diagram** for the cloud plan
-
-Just tell me what style you want.
