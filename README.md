@@ -1,7 +1,7 @@
 
 ---
 
-# **Don & Associates – Cloud Expansion & Vendor Analysis**
+# **Don & Associates Cloud Expansion & Vendor Analysis**
 
 This project evaluates cloud technologies to support Don & Associates’ regional expansion into the Northeast. The analysis examines traditional infrastructure challenges, compares major cloud providers, and recommends the most effective cloud platform to support growth, scalability, and operational efficiency.
 
