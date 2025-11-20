@@ -9,7 +9,7 @@ This project evaluates cloud technologies to support Don & Associates’ regiona
 
 ## **📌 Project Summary**
 
-As Don & Associates expands across state lines, the company faces increased demands for reliable, scalable, and cost-efficient technology infrastructure. Traditional on-premises systems require physical servers, long deployment times, increased staffing, and high upfront costs—challenges that slow growth and increase operational complexity.
+As Don & Associates expands across state lines, the company faces increased demands for reliable, scalable, and cost-efficient technology infrastructure. Traditional on-premises systems require physical servers, long deployment times, increased staffing, and high upfront costs challenges that slow growth and increase operational complexity.
 
 Cloud computing offers an alternative path, enabling faster deployment, scalable resources, reduced physical maintenance, and flexible pricing models.
 
