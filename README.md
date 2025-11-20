@@ -1,11 +1,3 @@
-# Don-associates-cloud-migration
-Evaluation of AWS, Azure, and GCP to determine the best cloud platform for Don &amp; Associates’ expansion, including service models, deployment models, cost, scalability, and migration considerations.
-Got you — **no certifications, no personal info, no extras.
-Strictly a clean README for GitHub based ONLY on the project content in the file.**
-
-Here is a **pure, professional, GitHub-ready README.md** based 100% on the document you uploaded — nothing else added.
-
-You can copy and paste this directly:
 
 ---
 
@@ -68,16 +60,19 @@ Organizations own the hardware but rent space in a professionally managed data c
 ### **Amazon Web Services (AWS)**
 
 **Strengths:** Broad services, global reach, mature infrastructure
+
 **Weaknesses:** Complex pricing, steep learning curve
 
 ### **Microsoft Azure**
 
 **Strengths:** Strong integration with Microsoft tools, hybrid cloud support
+
 **Weaknesses:** Fewer data centers than AWS, less intuitive interface
 
 ### **Google Cloud Platform (GCP)**
 
 **Strengths:** Excellent in AI, data, and analytics; user-friendly interface
+
 **Weaknesses:** Smaller ecosystem, fewer services, fewer global regions
 
 ---
