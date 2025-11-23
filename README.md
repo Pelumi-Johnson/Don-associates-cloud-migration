@@ -1,3 +1,7 @@
+## 📄 Download Full Report
+[https://github.com/Pelumi-Johnson/Don-associates-cloud-migration/raw/refs/heads/main/Executive%20Summary%20Template%20(3).docx]
+
+
 # Executive Summary
 
 **Name:** Pelumi Johnson  
