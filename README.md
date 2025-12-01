@@ -1,5 +1,5 @@
  📄 **Full Lab Report:**  
-👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/-My-Local-Network-Home-Topology-Lab/blob/main/1.5.4%20Lab%20-%20My%20Local%20Network-1.docx%20(1).pdf)
+👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Don-associates-cloud-migration/blob/main/Executive%20Summary%20Template%20(4)%20(1).docx.pdf)
 
 
 
